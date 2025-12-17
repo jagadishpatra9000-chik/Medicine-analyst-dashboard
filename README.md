@@ -6,7 +6,7 @@
 
 ## Project Objective
 
-The primary objective of this project is to develop a comprehensive and visually appealing Power BI dashboard that analyzes the medicine sales data for the entire year of 2023 and 2022.
+The primary objective of this project is to develop a comprehensive and visually appealing Power BI dashboard that analyzes the medicine sales data for the entire year of 2024 and 2025.
 
 This initiative has been undertaken in response to stakeholders' requests to gain a clear understanding of sales performance. By transforming raw data into actionable insights, the dashboard aims to assist stakeholders in making informed strategic decisions for future planning.
 
@@ -152,7 +152,7 @@ Analysis shows that the **highest revenue is generated from the 51+ age group at
 
 ### Revenue by Year:
  * A line chart displays revenue by year.
- * Analysis shows revenue of $**3 million in 2022** and **$62 million in 2023**, indicating significant growth.
+ * Analysis shows revenue of $**3 million in 2024** and **$62 million in 2025**, indicating significant growth.
 
 ### Revenue by Quarter:
 Analysis indicates revenue as follows:
