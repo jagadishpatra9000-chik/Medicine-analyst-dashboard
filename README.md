@@ -173,7 +173,7 @@ This page provides a comprehensive view of customer demographics, sales performa
 #
 
 ## Real-World Recommendations Based on Insights
-Based on the detailed insights from the Power BI dashboard analyzing the medicine sales data for 2023, here are the top five recommendations for stakeholders to consider:
+Based on the detailed insights from the Power BI dashboard analyzing the medicine sales data for 2024, here are the top five recommendations for stakeholders to consider:
 
  * **Focus marketing efforts on Lisinopril:**  The data shows Lisinopril is the top revenue generator.  Allocate marketing budget to promote this drug and potentially explore upselling or cross-selling related medications.
 
