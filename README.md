@@ -1,7 +1,6 @@
 # Medicine Sales Analysis Dashboard STY_03
 
-## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-### Live Dashboard at Novypro [Live_link_Novypro](https://project.novypro.com/ZTq1dj)
+## Created & Analyzed by Jagadish patra @Aspiring Data Analyst [Linkedin](www.linkedin.com/in/jagdish-patra-06a34a348)
 
 #
 
@@ -192,7 +191,6 @@ Based on the detailed insights from the Power BI dashboard analyzing the medicin
 This project has significantly enhanced my analytical skills, particularly in using Power BI for data visualization and analysis. I am now more confident in my ability to transform raw data into meaningful insights that can drive strategic business decisions. This experience has prepared me well for future data analysis projects, and I look forward to applying these skills in more complex and challenging scenarios.
 
 #
-**This project is the result of over 7-10 days of hard work, and I invite you to 👍 like, share, and connect with me on [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/).**
 
 I hope scrolling through this project provides you with insightful understanding.
 
@@ -203,7 +201,6 @@ Thank you for taking the time to view my project.
 
 ## How you can help me:
 
-I've successfully completed over **65 Power BI projects**, all showcased in my [Novypro portfolio](https://www.novypro.com/profile_projects/saddamansari). You're all invited to visit my portfolio and explore these amazing projects!
 
 **Additionally, I'm currently seeking internship or entry-level opportunities. If you have any opportunities available or need a freelance Power BI project completed, please connect with me on LinkedIn.**
 
@@ -213,6 +210,6 @@ Looking forward to connecting with you all!
 
 ### Created and Presented by-
 
-Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+Jagadish patra @Aspiring Data Analyst [LinkedIn](www.linkedin.com/in/jagdish-patra-06a34a348)
 
 Location: India
