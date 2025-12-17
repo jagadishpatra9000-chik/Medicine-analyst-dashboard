@@ -80,7 +80,7 @@ Lets dive into detailed explanations:
 
 ## Page-One: Home
 
-![Screenshot 2024-06-01 091507](https://github.com/user-saddam123/Medicine_Sales_Analysis_Dashboard_STY_03/assets/123800896/7c607af6-0725-4bee-b69b-ed68304a7ebd)
+<!-- ![Screenshot 2024-06-01 091507](https://github.com/user-saddam123/Medicine_Sales_Analysis_Dashboard_STY_03/assets/123800896/7c607af6-0725-4bee-b69b-ed68304a7ebd) -->
 
 
 This page has been designed to be visually appealing, aiming to provide a comprehensive summary of overall sales performance. The dashboard effectively uses various visual elements to present key performance indicators (KPIs) and other relevant data points.
@@ -113,7 +113,7 @@ This overview page provides a high-level snapshot of the sales data, enabling st
 
 ## Page-Two: INSIGHTS
 
-![Screenshot 2024-06-01 091524](https://github.com/user-saddam123/Medicine_Sales_Analysis_Dashboard_STY_03/assets/123800896/7b9134ca-a003-4e61-a80b-6121ab948fe0)
+<!-- ![Screenshot 2024-06-01 091524](https://github.com/user-saddam123/Medicine_Sales_Analysis_Dashboard_STY_03/assets/123800896/7b9134ca-a003-4e61-a80b-6121ab948fe0) -->
 
 This page provides key insights into customer demographics and sales performance across various segments. It includes essential KPIs and visualizations to help stakeholders understand customer behavior and geographic trends.
 
