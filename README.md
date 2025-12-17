@@ -63,7 +63,7 @@ The Sales Transactions Table records each sale made, including details of the dr
 #
 
 ## Dashboard Overview
-Based on the project objective, I have developed a two-page Power BI dashboard report to analyze and visualize the medicine sales data for 2023. The dashboard is structured as follows:
+Based on the project objective, I have developed a two-page Power BI dashboard report to analyze and visualize the medicine sales data for 2024. The dashboard is structured as follows:
 
 ### 1. Home Page
 The Home Page provides an overview of the overall insights, including key performance indicators, sales trends, and a summary of the sales data. This page is designed to give stakeholders a quick and comprehensive view of the sales performance, highlighting essential metrics and overall business health.
